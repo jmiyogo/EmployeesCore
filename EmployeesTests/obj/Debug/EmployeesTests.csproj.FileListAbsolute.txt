@@ -1,0 +1,16 @@
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\obj\Debug\EmployeesTests.csprojAssemblyReference.cache
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\obj\Debug\EmployeesTests.csproj.CoreCompileInputs.cache
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\bin\Debug\EmployeesTests.dll
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\bin\Debug\EmployeesTests.pdb
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\bin\Debug\EmployeesCore.dll
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\bin\Debug\EmployeesCore.pdb
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\obj\Debug\EmployeesTests.csproj.CopyComplete
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\obj\Debug\EmployeesTests.dll
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesTests\obj\Debug\EmployeesTests.pdb

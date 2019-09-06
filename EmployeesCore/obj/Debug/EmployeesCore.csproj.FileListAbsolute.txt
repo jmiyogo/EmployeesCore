@@ -1,0 +1,6 @@
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesCore\obj\Debug\EmployeesCore.csproj.CoreCompileInputs.cache
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesCore\bin\Debug\EmployeesCore.dll
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesCore\bin\Debug\EmployeesCore.pdb
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesCore\obj\Debug\EmployeesCore.dll
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesCore\obj\Debug\EmployeesCore.pdb
+D:\Johnstone 2019\Jobs\TechnoBrain\EmployeesCore\EmployeesCore\obj\Debug\EmployeesCore.csprojAssemblyReference.cache
